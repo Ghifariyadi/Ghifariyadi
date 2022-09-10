@@ -1,6 +1,5 @@
 👋 Hi, welcome to Ghifariyadi's github profile
 
-I'm currently a Data Analyst at Bareksa. This is my portfolio related to data, including data science portfolio to data visualization portfolio.
+I'm currently a Data Analyst at Pintarnya - Job platform for millions of blue-collar workers in Indonesia. This is my portfolio related to data, including data science portfolio to data visualization portfolio.
 
-Reach me through the following:
-+62 812 9695 2478 / ghifariyadi.muhammad@gmail.com
+Reach me through my Linkedin: Muhammad Ghifariyadi
